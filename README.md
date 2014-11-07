@@ -1,4 +1,4 @@
 forkception
 ===========
 
-Fun with forks.
+Fun with forks for all.
